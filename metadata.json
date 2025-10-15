@@ -1,0 +1,5 @@
+{
+  "name": "AI Inspector",
+  "description": "Upload an image and our AI will analyze it to determine if it's AI-generated or not. Get a confidence score and a detailed report.",
+  "requestFramePermissions": []
+}
